@@ -459,7 +459,6 @@ I try to approach difficult problems from their fundamentals rather than immedia
                       UNDERSTANDING
 ---
 ```
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -467,16 +466,16 @@ I try to approach difficult problems from their fundamentals rather than immedia
 <a href="https://github.com/MohammedAnasuddinZaid">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=MohammedAnasuddinZaid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
-    alt="Mohammed Anasuddin Zaid's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=MohammedAnasuddinZaid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Mohammed Anasuddin Zaid GitHub Stats"
   />
 </a>
 
 <a href="https://github.com/MohammedAnasuddinZaid">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnasuddinZaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Mohammed Anasuddin Zaid's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnasuddinZaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    alt="Mohammed Anasuddin Zaid Top Languages"
   />
 </a>
 
@@ -489,8 +488,8 @@ I try to approach difficult problems from their fundamentals rather than immedia
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=MohammedAnasuddinZaid&theme=tokyonight&hide_border=true&cache=1"
-  alt="GitHub Contribution Streak"
+  src="https://streak-stats.demolab.com?user=MohammedAnasuddinZaid&theme=tokyonight&hide_border=true"
+  alt="Mohammed Anasuddin Zaid GitHub Contribution Streak"
 />
 
 </div>
@@ -503,7 +502,7 @@ I try to approach difficult problems from their fundamentals rather than immedia
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnasuddinZaid&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub Contribution Activity"
+  alt="Mohammed Anasuddin Zaid GitHub Contribution Activity"
 />
 
 </div>
@@ -516,7 +515,7 @@ I try to approach difficult problems from their fundamentals rather than immedia
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=MohammedAnasuddinZaid&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
-  alt="GitHub Trophies"
+  alt="Mohammed Anasuddin Zaid GitHub Trophies"
 />
 
 </div>
@@ -543,14 +542,10 @@ I try to approach difficult problems from their fundamentals rather than immedia
 <img
   width="100%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAnasuddinZaid&theme=tokyonight"
-  alt="GitHub Profile Summary"
+  alt="GitHub Profile Details"
 />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAnasuddinZaid&theme=tokyonight"
@@ -561,6 +556,33 @@ I try to approach difficult problems from their fundamentals rather than immedia
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAnasuddinZaid&theme=tokyonight"
   alt="Most Commit Language"
 />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+<div align="center">
+
+🧪 **Experimental Ideas**  
+🛠️ **Developer Tools**  
+☁️ **Cloud & Infrastructure**  
+🔬 **Scientific Computing**  
+📊 **Product Experiments**  
+🌌 **Theoretical Physics**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<a href="https://github.com/MohammedAnasuddinZaid">
+  <img src="https://img.shields.io/badge/GitHub-MohammedAnasuddinZaid-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 🧪 Experimental Ideas
