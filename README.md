@@ -460,8 +460,79 @@ I try to approach difficult problems from their fundamentals rather than immedia
 ---
 ---
 
-📊 GitHub Analytics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammedAnasuddinZaid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnasuddinZaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/> </div>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammedAnasuddinZaid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnasuddinZaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=MohammedAnasuddinZaid&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnasuddinZaid&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnasuddinZaid&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MohammedAnasuddinZaid/MohammedAnasuddinZaid/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 📈 GitHub Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAnasuddinZaid&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAnasuddinZaid&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAnasuddinZaid&theme=tokyonight" />
+
+</div>
+
+---
 
 # 🌍 What You'll Find Here
 
@@ -473,6 +544,14 @@ Expect to find:
 🌐 Full-Stack Applications
 ⚙️ Backend Systems
 ☁️ Cloud-Native Projects
+📦 SaaS Products
+🤖 AI Experiments
+🔬 Computational Research
+📚 Research Papers
+🚀 Startup Projects
+🧪 Experimental Ideas
+🛠️ Developer Tools
+📊 Product Experiments
 📦 SaaS Products
 🤖 AI Experiments
 🔬 Computational Research
