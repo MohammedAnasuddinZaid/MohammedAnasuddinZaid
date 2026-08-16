@@ -458,17 +458,27 @@ I try to approach difficult problems from their fundamentals rather than immedia
                            ▼
                       UNDERSTANDING
 ---
----
-
----
+```
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MohammedAnasuddinZaid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/MohammedAnasuddinZaid">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=MohammedAnasuddinZaid&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"
+    alt="Mohammed Anasuddin Zaid's GitHub Stats"
+  />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnasuddinZaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/MohammedAnasuddinZaid">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnasuddinZaid&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="Mohammed Anasuddin Zaid's Top Languages"
+  />
+</a>
 
 </div>
 
@@ -478,7 +488,10 @@ I try to approach difficult problems from their fundamentals rather than immedia
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MohammedAnasuddinZaid&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=MohammedAnasuddinZaid&theme=tokyonight&hide_border=true&cache=1"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
@@ -488,7 +501,10 @@ I try to approach difficult problems from their fundamentals rather than immedia
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnasuddinZaid&theme=github-compact&hide_border=true&area=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnasuddinZaid&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
@@ -498,27 +514,37 @@ I try to approach difficult problems from their fundamentals rather than immedia
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnasuddinZaid&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=MohammedAnasuddinZaid&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MohammedAnasuddinZaid/MohammedAnasuddinZaid/output/github-contribution-grid-snake-dark.svg" />
+<img
+  src="https://raw.githubusercontent.com/MohammedAnasuddinZaid/MohammedAnasuddinZaid/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-# 📈 GitHub Profile Summary
+## 📊 GitHub Profile Summary
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAnasuddinZaid&theme=tokyonight" />
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAnasuddinZaid&theme=tokyonight"
+  alt="GitHub Profile Summary"
+/>
 
 </div>
 
@@ -526,37 +552,17 @@ I try to approach difficult problems from their fundamentals rather than immedia
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAnasuddinZaid&theme=tokyonight" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAnasuddinZaid&theme=tokyonight"
+  alt="Repositories Per Language"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAnasuddinZaid&theme=tokyonight" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAnasuddinZaid&theme=tokyonight"
+  alt="Most Commit Language"
+/>
 
 </div>
-
----
-
-# 🌍 What You'll Find Here
-
-This GitHub profile documents my journey across **engineering, research, and product development**.
-
-Expect to find:
-
-```text
-🌐 Full-Stack Applications
-⚙️ Backend Systems
-☁️ Cloud-Native Projects
-📦 SaaS Products
-🤖 AI Experiments
-🔬 Computational Research
-📚 Research Papers
-🚀 Startup Projects
-🧪 Experimental Ideas
-🛠️ Developer Tools
-📊 Product Experiments
-📦 SaaS Products
-🤖 AI Experiments
-🔬 Computational Research
-📚 Research Papers
-🚀 Startup Projects
 🧪 Experimental Ideas
 🛠️ Developer Tools
 📊 Product Experiments
